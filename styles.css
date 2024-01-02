@@ -37,7 +37,6 @@ li {
 }
 a {
   text-decoration: none;
-  color: #1b1c21;
 }
 .menu-container__service-list {
   display: flex;
@@ -86,9 +85,10 @@ button {
   transition: all 0.3s ease-in-out;
   align-items: center;
   gap: 20px;
+  color: #1b1c21;
 }
 .link:hover {
-  color: #ff3e79;
+  color: #7e7e82;
   text-decoration: none;
 }
 /* Hightlight via position*/
@@ -104,6 +104,7 @@ button {
   position: absolute;
   left: -24px;
 }
+
 img {
   transition: all 300ms ease-in-out;
 }
