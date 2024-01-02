@@ -99,12 +99,14 @@ button {
   height: 32px;
   border: none;
   align-items: center;
-  color: #7e7e82;
+
   text-decoration: none;
   position: absolute;
   left: -24px;
 }
-
+.link:focus {
+  color: #7e7e82;
+}
 img {
   transition: all 300ms ease-in-out;
 }
