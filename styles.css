@@ -37,6 +37,7 @@ li {
 }
 a {
   text-decoration: none;
+  color: #1b1c21;
 }
 .menu-container__service-list {
   display: flex;
@@ -91,13 +92,14 @@ button {
   text-decoration: none;
 }
 /* Hightlight via position*/
+
 .link:focus:before {
   content: url(assets/images/highlight.svg);
   width: 4px;
   height: 32px;
   border: none;
   align-items: center;
-
+  color: #7e7e82;
   text-decoration: none;
   position: absolute;
   left: -24px;
