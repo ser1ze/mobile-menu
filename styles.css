@@ -71,7 +71,7 @@ button {
   display: flex;
   gap: 16px;
 }
-.menu-container__lang-switch {
+.menu-container-contact__lang-switch {
   display: flex;
   gap: 7px;
   padding-top: 20px;
