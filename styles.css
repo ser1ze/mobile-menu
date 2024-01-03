@@ -67,6 +67,9 @@ button {
   flex-direction: column;
   padding: 16px 24px;
 }
+.menu-container-contact__mail {
+  padding-bottom: 12px;
+}
 .menu-container-contact__contacts {
   display: flex;
   gap: 16px;
