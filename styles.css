@@ -118,3 +118,6 @@ img {
 img:hover {
   filter: brightness(80%);
 }
+.link--non-active {
+  color: #1b1c21;
+}
