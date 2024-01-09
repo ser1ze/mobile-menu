@@ -44,7 +44,7 @@ a {
   gap: 32px;
   justify-content: flex-start;
 
-  padding-bottom: 268px;
+  padding-bottom: 32px;
 }
 /*Li left padding*/
 li {
@@ -120,4 +120,12 @@ img:hover {
 }
 .link--non-active {
   color: #1b1c21;
+}
+.menu-container-contact__number {
+  font-size: 24px;
+}
+@media (min-width: 768px) {
+  .menu-container__service-list {
+    padding-bottom: 268px;
+  }
 }
